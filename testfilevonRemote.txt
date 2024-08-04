@@ -1,0 +1,5 @@
+Das ist ein Testfile, welches auf dem Remote-Repository erstellt wurde.
+
+Zweck ist das benutzen des git pull-Befehls.
+
+a friend
